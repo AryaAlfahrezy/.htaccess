@@ -1,2 +1,3 @@
 Files .htaccess Untuk Tebas Index.....
+dengan metode com_fabrik >> CSRF
 coded By Arya Alfahrezy
